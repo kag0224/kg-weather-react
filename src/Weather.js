@@ -3,13 +3,13 @@ import "./Weather.css";
 
 export default function Weather() {
   let weatherData = {
-    city: "San Franisco",
+    city: "San Francisco",
     temperature: 55,
     date: "Friday 10:00",
     description: "Overcast",
     humidity: 90,
     wind: 11,
-    imgUrl: "http://openweathermap.org/img/wn/04d@2x.png"
+    imgUrl: "http://openweathermap.org/img/wn/04d@2x.png",
   };
 
   return (
