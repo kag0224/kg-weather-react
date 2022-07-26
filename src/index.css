@@ -30,3 +30,7 @@ li:first-letter {
 .units a {
   text-decoration: none;
 }
+
+footer {
+  text-align: center;
+}
